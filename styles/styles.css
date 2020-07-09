@@ -68,7 +68,6 @@ button:hover {
 
 .on {
     background-color: #ffaa00;
-    transition: background-color 400ms linear, height 1s ease-in;
 }
 
 .wrapper-on {
